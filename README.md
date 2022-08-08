@@ -7,7 +7,7 @@
 
 <br />
 
-###### If you want to build a highly customizable dashbords in Plotly Dash, you can contact me at usman.afridi.ds@gmail.com. You can also contanct me on Social Media Handles. 
+###### If you want to build a highly customizable dashbords in Plotly Dash, you can contact me at usman.afridi.ds@gmail.com. You can also contact me on Social Media Handles. 
 
 ### Here is the dashboard I created in this repo. 
 
